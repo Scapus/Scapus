@@ -1,4 +1,4 @@
-![Header](https://github.com/Scapus/Scapus/blob/main/assets/1.png)
+![Header]()
 
  ## I'm a beginner QA-engineer
 
