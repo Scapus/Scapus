@@ -2,6 +2,8 @@
 
  ## I'm a beginner QA-engineer
 
+
+
  ### Language and Tools
  ![Python](https://img.shields.io/badge/-Python-bfbcaf?style=social&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-bfbcaf?style=social&logo=JavaScript) ![MySQL](https://img.shields.io/badge/-MySQL-bfbcaf?style=social&logo=mysql)
@@ -13,4 +15,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-bfbcaf?style=social&logo=GitHub)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-bfbcaf?style=social&logo=VisualStudioCode)
 
-Follow me
+### My contact
+ [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
+
