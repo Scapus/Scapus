@@ -21,15 +21,15 @@
 
 ### Testing Documentation
 
-Checklists
+[Checklists](https://github.com/Scapus/Checklists.git)
 
-Test-Suites and Test-Cases
+[Test-Suites and Test-Cases](https://github.com/Scapus/Test-Suites-and-Test-Cases.git)
 
-Bug-Reports
+[Bug-Reports](https://github.com/Scapus/Bug-Reports.git)
 
-SQL Queries
+[SQL Queries](https://github.com/Scapus/SQL-Queries.git)
 
-Postman Collections
+[Postman Collections](https://github.com/Scapus/Postman-Collections.git)
 
 ### My contact
  [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
