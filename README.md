@@ -19,7 +19,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-bfbcaf?style=social&logo=GitHub)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-bfbcaf?style=social&logo=VisualStudioCode)
 
+### Testing Documentation
+
+Checklists
+
+Test-Suites and Test-Cases
+
+Bug-Reports
+
+SQL Queries
+
+Postman Collections
+
 ### My contact
  [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scapus)](https://github.com/anuraghazra/github-readme-stats)
