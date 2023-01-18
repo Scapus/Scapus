@@ -33,3 +33,5 @@
 
 ### My contact
  [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
+ 
+ E-mail: strelnikovaolesya@bk.ru
