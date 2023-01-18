@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-bfbcaf?style=social&logo=GitHub)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-bfbcaf?style=social&logo=VisualStudioCode)
 
-### Testing Documentation
+### Testing Documentation examples
 
 [Checklists](https://github.com/Scapus/Checklists.git)
 
@@ -33,4 +33,3 @@
 
 ### My contact
  [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
-
