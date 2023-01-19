@@ -1,13 +1,12 @@
-![Header](https://github.com/Scapus/Scapus/blob/main/assets/7.jpg)
-
 <a ad="anchor"></a>
+![Header](https://github.com/Scapus/Scapus/blob/main/assets/7.jpg)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
 [![HabrCareer](https://img.shields.io/badge/-HabrCareer-fafafa?style=plastic&logo=Habr)](https://career.habr.com/scapus) 
 [![HeadHunter](https://img.shields.io/badge/-HeadHunter-fafafa?style=plastic&logo=appveyor&logoColor=e1001c)](https://volgograd.hh.ru/applicant/resumes/view?resume=91bb7982ff0b87d9830039ed1f546951695550)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fafafa?style=plastic&logo=LinkedIn&logoColor=0366c4)](https://www.linkedin.com/checkpoint)
 
-### Hi there 👋 I'm Olesya! I'm a beginner QA-engineer
+### Hi! I'm Olesya! I'm a beginner QA-engineer
 
 ### About Me:
 - High level of self-discipline and planning my working day;
