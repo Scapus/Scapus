@@ -31,11 +31,10 @@
 
 ### Testing Documentation examples
 
-* [Checklists](https://github.com/Scapus/Checklists.git)
+* [Test report](https://github.com/Scapus/Test_report)
 * [Test-Suites and Test-Cases](https://github.com/Scapus/Test-Suites-and-Test-Cases.git)
 * [Bug-Reports](https://github.com/Scapus/Bug-Reports.git)
-* [SQL Queries](https://github.com/Scapus/SQL-Queries.git)
-* [Postman Collections](https://github.com/Scapus/Postman-Collections.git)
+
  
  E-mail: strelnikovaolesya@bk.ru
  ___
