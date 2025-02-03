@@ -1,4 +1,4 @@
-![Header](https://github.com/Scapus/Scapus/blob/main/assets/7.jpg)
+<!--![Header](https://github.com/Scapus/Scapus/blob/main/assets/7.jpg)-->
 
 [![Telegram](https://img.shields.io/badge/-Telegram-fafafa?style=plastic&logo=Telegram)](https://t.me/OlesyaStrelnikova)
 [![HabrCareer](https://img.shields.io/badge/-HabrCareer-fafafa?style=plastic&logo=Habr)](https://career.habr.com/scapus)
