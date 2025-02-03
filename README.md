@@ -5,9 +5,7 @@
 [![HeadHunter](https://img.shields.io/badge/-HeadHunter-fafafa?style=plastic&logo=appveyor&logoColor=e1001c)](https://volgograd.hh.ru/applicant/resumes/view?resume=91bb7982ff0b87d9830039ed1f546951695550)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fafafa?style=plastic&logo=LinkedIn&logoColor=0366c4)](https://www.linkedin.com/checkpoint)
 
-### Hi! I'm Olesya!
-
-### I'm QA-engineer
+### Hi! I'm Olesya, QA-engineer
 
 ### About Me:
 
@@ -34,9 +32,9 @@
 
 ### Testing Documentation examples
 
+- [Fun PHP](https://github.com/Scapus/MAC_in_PHP)
 - [Test report](https://github.com/Scapus/Test_report)
 - [Test-Suites and Test-Cases](https://github.com/Scapus/Test-Suites-and-Test-Cases.git)
-- [Bug-Reports](https://github.com/Scapus/Bug-Reports.git)
 
 E-mail: strelnikovaolesya@bk.ru
 
